@@ -3,7 +3,7 @@
     background-color: #ff000040; /* used HEXA color scheme */
     font-family: Verdana, "Dejavu Sans",sans-serif;
 }
-.odd.augmented-font{
+.augmented-font{
     font-size: 24px;
 }
 #even-no-bg{
@@ -12,6 +12,5 @@
 }
 #even-bg{
     background-color: #00ff0080;
-    font-size: 24px;
     font-weight: bold;
 }
